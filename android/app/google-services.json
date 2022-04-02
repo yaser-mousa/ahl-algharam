@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "645856195164",
+    "project_id": "love-68723",
+    "storage_bucket": "love-68723.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645856195164:android:7692219361828f0c166c99",
+        "android_client_info": {
+          "package_name": "com.yaserapps.lovestories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645856195164-fd1kkniodii1o969m55v56r610b028l6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yaserapps.lovestories",
+            "certificate_hash": "a1e8153dada20abca2a8efe3cb492a21e68e6263"
+          }
+        },
+        {
+          "client_id": "645856195164-09svq6ff4j5p2r6jt3or9hpsf28hpers.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpDgPggS6AOfk0ZwrBfqziKIvdKQMC-6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645856195164-09svq6ff4j5p2r6jt3or9hpsf28hpers.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
